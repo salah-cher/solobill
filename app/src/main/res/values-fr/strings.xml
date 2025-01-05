@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoloFacture</string>
+    <string name="home_title">SoloFacture</string>
+    <string name="create_invoice">Créer une facture</string>
+    <string name="create_invoice_screen_title">Créer une facture</string>
+    <string name="placeholder_invoice_screen">Ceci est écran Créer une facture</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">سولو بيل</string>
+    <string name="home_title">سولو بيل</string>
+    <string name="create_invoice">إنشاء فاتورة</string>
+    <string name="create_invoice_screen_title">إنشاء فاتورة</string>
+    <string name="placeholder_invoice_screen">هذه هي شاشة إنشاء الفاتورة</string>
+</resources>

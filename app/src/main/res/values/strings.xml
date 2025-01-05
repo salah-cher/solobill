@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SoloBill</string>
+    <string name="home_title">SoloBill</string>
+    <string name="create_invoice">Create Invoice</string>
+    <string name="create_invoice_screen_title">Create Invoice</string>
+    <string name="placeholder_invoice_screen">This is the Create Invoice Screen</string>
 </resources>
